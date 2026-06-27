@@ -10,10 +10,10 @@ export default function Testimonials() {
       clientName: "Marcus Vance",
       role: "Owner",
       businessName: "Vance Residential Roofing",
-      businessType: "Roofing Contractor",
+      businessType: "Residential Cleaning Services",
       avatar: "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=120&h=120",
       rating: 5,
-      review: "Working with dangmei was a game changer for our roofing company. Our old site looked fine but never generated any leads. dangmei's custom landing page and the automated roof sizing estimator we integrated starting bringing in 4 to 5 high-quality re-roof leads every single week. Highly recommend!",
+      review: "Dangmei transformed our residential cleaning business. Our old website looked decent but generated zero clients. Dangmei built a custom landing page and integrated an online booking calculator. This setup brings 4 to 5 recurring cleaning clients every week. Highly recommend!",
       date: "May 2026"
     },
     {
@@ -21,10 +21,10 @@ export default function Testimonials() {
       clientName: "Elena Rostova",
       role: "Marketing Director",
       businessName: "Northstar Geothermal & HVAC",
-      businessType: "HVAC Contractor",
+      businessType: "Junk Removal Contractor",
       avatar: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=120&h=120",
       rating: 5,
-      review: "Our previous agency charged us $1,200 a month for high search rank but we got zero booked leads. dangmei built us a custom site that ranks beautifully and our conversion rate shot up from 2.1% to nearly 8% in weeks. It paid for itself in the first month.",
+      review: "Our previous agency charged $1,200 monthly for search ranking, but we received zero booked junk removal jobs. Dangmei built a custom site with high search rankings. Our conversion rate rose from 2.1% to nearly 8% in weeks. The project paid for itself within a week!",
       date: "April 2026"
     },
     {
@@ -32,10 +32,10 @@ export default function Testimonials() {
       clientName: "David 'Red' Callahan",
       role: "General Manager",
       businessName: "Callahan Pipeline & Plumbing",
-      businessType: "Plumbing Service",
+      businessType: "Auto Detailing Services",
       avatar: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=120&h=120",
       rating: 5,
-      review: "I was skeptical about paying for a custom site when generic builders cost $20 a month. But the speed and quality makes all the difference for converting leads. If they find you online and your site doesn't load immediately on their phones, they hit 'back' and dial someone else. dangmei's site loads instantly, and our booking rate doubled.",
+      review: "I doubted paying for a custom site when generic builders cost $20 monthly. Speed and quality drive auto detailing conversions. Car owners search online. A site failing to load instantly on mobile forces prospects to call competitors. Dangmei’s site loads instantly. Our booking rate doubled.",
       date: "March 2026"
     }
   ];

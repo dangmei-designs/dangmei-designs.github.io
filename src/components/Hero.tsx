@@ -126,7 +126,7 @@ export default function Hero({ onOpenContact, onOpenTestimonials }: HeroProps) {
           }}
           className="text-neutral-300/90 text-xs xs:text-sm sm:text-base md:text-lg max-w-2xl mx-auto mb-10 sm:mb-12 leading-relaxed tracking-wide font-light px-4"
         >
-          Incredible websites designed to convert <br className="hidden sm:inline" />
+          designed to convert <br className="hidden sm:inline" />
           online visitors into paying clients.
         </motion.p>
 
